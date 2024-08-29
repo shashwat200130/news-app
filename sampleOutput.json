@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Japan protests Chinese spy plane incursion",
+            "description": "The breach is \"utterly unacceptable\" and is a \"serious violation\" of Japan's sovereignty, Tokyo says.",
+            "url": "https://www.bbc.co.uk/news/articles/cr40dpz1rkwo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c68b/live/4341ae80-641a-11ef-9770-c5105fa5c017.png",
+            "publishedAt": "2024-08-27T04:37:17.6656431Z",
+            "content": "There has been no official response from Beijing.\r\nThe incursion on Monday lasted two minutes and the Japanese issued \"notifications and warnings\" to the Chinese aircraft. No weapons such as flare gu… [+385 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France President Macron rules out leftist PM as crisis continues",
+            "description": "The French president says the New Popular Front coalition could not win a confidence vote in parliament.",
+            "url": "https://www.bbc.co.uk/news/articles/cevj87eypewo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/43d5/live/42bbff60-63fc-11ef-b970-9f202720b57a.jpg",
+            "publishedAt": "2024-08-27T04:37:16.77524Z",
+            "content": "No one group was able to win a majority in the elections, with the NFP gaining more than 190 seats, Mr Macron's centrist Ensemble alliance 160 and the far-right National Rally (RN) 140.\r\nA caretaker … [+598 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Massive Russian strikes hit Ukraine for second day",
+            "description": "Local officials say at least three people have been killed in Russian attacks on Ukraine overnight.",
+            "url": "https://www.bbc.co.uk/news/articles/ckg1lpe26ylo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2de5/live/a9628fa0-641e-11ef-b970-9f202720b57a.jpg",
+            "publishedAt": "2024-08-27T04:22:14.963223Z",
+            "content": "At least six people died overnight Sunday to Monday and dozens were wounded as more than half of Ukraine's regions were attacked by drones and missiles.\r\nPower infrastructure was hit causing blackout… [+1070 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Climate change: Surging seas are coming for us all, warns UN chief",
+            "description": "Speaking to the BBC at the Pacific Islands Forum, António Gutteres says these islands are the \"most vulnerable\".",
+            "url": "https://www.bbc.co.uk/news/articles/c3ej0xx2jpxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fb8a/live/99b7ea80-6416-11ef-83f8-298f1a209e0e.jpg",
+            "publishedAt": "2024-08-27T02:37:19.1512079Z",
+            "content": "According to the report, the levels have risen an average of 9.4cm (3.7in) in the past 30 years but in the tropical Pacific, that figure was as high as 15cm.\r\n\"It's important for leaders, especially … [+1897 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US soldier who fled to North Korea to plead guilty to desertion",
+            "description": "Pvt Travis King has agreed to a plea deal that will see some of the charges against him dropped, his lawyer said.",
+            "url": "https://www.bbc.co.uk/news/articles/c8dpyl5j5vmo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6eb2/live/6eadb6a0-640f-11ef-8523-45e3c2478cae.jpg",
+            "publishedAt": "2024-08-27T02:37:12.4155399Z",
+            "content": "\"Traviss guilty plea will be entered at a general court-martial,\" Mr Rosenblatt said in an emailed statement on Monday.\r\n\"There, he will explain what he did, answer a military judges questions about … [+986 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada to impose 100% tariff on China electric vehicle imports",
+            "description": "The move comes after similar announcements, including in the US and European Union.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2n091v4m5o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d60f/live/711c36e0-6415-11ef-83f8-298f1a209e0e.jpg",
+            "publishedAt": "2024-08-27T02:22:11.9628264Z",
+            "content": "\"We are transforming Canada's automotive sector to be a global leader in building the vehicles of tomorrow, but actors like China have chosen to give themselves an unfair advantage in the global mark… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Swiss chocolate: Swiss scientists cut waste and sugar",
+            "description": "The whole of the cocoa fruit is used in production, rather than just the beans.",
+            "url": "https://www.bbc.co.uk/news/articles/cn47zg3xgxxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0fa0/live/d71016c0-5582-11ef-aebc-6de4d31bf5cd.jpg",
+            "publishedAt": "2024-08-27T01:37:12.1819612Z",
+            "content": "The model is also questioned by a new exhibition in Geneva, which explores Switzerlands colonial past. \r\nTo those who point out that Switzerland never had any colonies of its own, chocolate historian… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mariah Carey's mother and sister die on the same day",
+            "description": "The Grammy-winning singer said in a statement her \"heart is broken\" after the two deaths and has asked for privacy.",
+            "url": "https://www.bbc.co.uk/news/articles/cx2yd454nzvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c61d/live/ea85d2a0-63f9-11ef-b535-b9a4d111b45e.jpg",
+            "publishedAt": "2024-08-26T23:07:12.431669Z",
+            "content": "Patricia, 87, was a former opera singer and vocal coach of Irish-America descent.\r\nIn Carey's 2020 memoir, The Meaning of Mariah Carey, the five-time Grammy Award-winning singer detailed her complica… [+1587 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada to cut number of temporary foreign workers",
+            "description": "Prime Minister Trudeau announced the change after unemployment rose in Canada and the programme faced UN scrutiny.",
+            "url": "https://www.bbc.co.uk/news/articles/c23lee2z7zyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c8c/live/7a3c0ba0-63e9-11ef-ba1a-c71445dcb8c5.jpg",
+            "publishedAt": "2024-08-26T21:07:21.8383556Z",
+            "content": "Mr Trudeau and his government have been criticised for increasing immigration without bolstering services or housing construction.\r\nAt the same time, Canadas unemployment rate has increased to 6.4% i… [+2136 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump Harris debate: Presidential campaigns spar over microphone rule",
+            "description": "The 10 September debate on ABC News is the only one that both candidates have officially committed to before the November elections.",
+            "url": "https://www.bbc.co.uk/news/articles/c5ylj0qg2rwo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80ea/live/4880b020-63ad-11ef-8c32-f3c2bc7494c6.jpg",
+            "publishedAt": "2024-08-26T14:22:19.993648Z",
+            "content": "The deadlock in negotiations between the two campaigns was first reported by Politico.\r\nBefore President Joe Biden stepped down as the Democratic party nominee, his campaign agreed with Trump's campa… [+2266 chars]"
+        }
+    ]
+}
